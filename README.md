@@ -1,13 +1,13 @@
-Wine Quality MLOps Lab
-
+**Wine Quality MLOps Lab
+**
 This project demonstrates a complete machine learning workflow on Databricks using the wine quality dataset. The lab introduces MLOps (Machine Learning Operations) concepts such as experiment tracking, feature importance analysis, and model deployment using MLflow and Unity Catalog.
 
-Objective
-
+**Objective
+**
 Predict whether a wine is high quality (quality score ≥ 7) based on its chemical properties.
 
-Key Components
-
+**Key Components
+**
 Exploratory Data Analysis
 
 Visualized wine quality distribution (most wines rated 5–6)
@@ -35,8 +35,8 @@ Saved multiple versions of models in Unity Catalog
 
 Promoted the best-performing model to “Production”
 
-Screenshots Included
-
+**Screenshots Included
+**
 Feature importance plot
 
 MLflow tracking (experiment runs)
@@ -45,8 +45,8 @@ Model registry view with version history
 
 Key data visualizations (EDA)
 
-Reflection Summary
-
+**Reflection Summary
+**
 Best model: XGBoost performed best due to its boosting strategy and regularization
 
 Most important feature: Alcohol content had the strongest predictive power
