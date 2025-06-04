@@ -68,6 +68,6 @@ MLOps_on_Databricks.ipynb: Main lab notebook
 Feature_Importance.png, MLflow_Tracking.png, etc.: Screenshots for assignment submission
 
 Author
-
+Link to Datbricks Notebook: https://dbc-7abfc804-9ff5.cloud.databricks.com/editor/notebooks/3720338771827826?o=2741000536047414
 Sami Maury (Wine Quality Lab - MLOps Practice)
 
